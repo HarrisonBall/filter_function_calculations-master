@@ -1,0 +1,1 @@
+Analytic calculations for form of filter functions for universal control, in the Gamma matrix formalism. Serves as the master for all expressions appearing in other code. 

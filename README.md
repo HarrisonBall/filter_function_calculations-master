@@ -2,7 +2,7 @@
 
 This repository contains code for performing filter function calculations used in the following publications
 
-Ball, H. and Biercuk, M. (2015). Walsh-synthesized noise filters for quantum logic. EPJ Quantum Technology, 2(1).
+Ball, H. and Biercuk, M. (2015). Walsh-synthesized noise filters for quantum logic. EPJ Quantum Technology, 2(1).\\
 published in: EPJ Quantum Technology 2, 1 (2015)
 arXiv:1410.1624 [quant-ph]
 

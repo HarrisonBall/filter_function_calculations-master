@@ -1,6 +1,6 @@
 # filter_function_calculations
 
-This repository contains code for performing filter function calculations used in the following publications
+This is a public repository where we share code and data to supplement our research publications. This repository contains code for performing filter function calculations used in the following publications:
 
 
 Soare, A., Ball, H., Hayes, D., Sastrawan, J., Jarratt, M. C., McLoughlin, J. J., Zhen, X., Green, T. J., and Biercuk, M. J. (2014).   Experimental noise filtering by quantum control. Nat. Phys., 10.
@@ -28,6 +28,8 @@ Published in:
 <br />
 [arXiv:1602.04551 [quant-ph]](https://arxiv.org/abs/1602.04551), 
 
+
+For more information, check out our [web page](http://www.physics.usyd.edu.au/~mbiercuk/QCL@Sydney.html) or pop us an email!
 
 
 

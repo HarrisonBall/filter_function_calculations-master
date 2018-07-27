@@ -39,7 +39,3 @@ For more information, check out the QCL [web page](http://www.physics.usyd.edu.a
 
 
 
- 
-
-
-

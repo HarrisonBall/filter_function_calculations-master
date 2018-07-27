@@ -1,6 +1,6 @@
 # filter_function_calculations
 
-This repository is cloned from the repository from the research group in which I did my PhD, the Quantum Control Laboratory. 
+This repository is cloned from the repository from the research group in which I did my PhD, the Quantum Control Laboratory, the Uniersity of Sydney. 
 This code was written by me during my PhD. 
 I posted it on QCL public repository prior to working at Q-CTRL. 
 The original README in that upload read as follows.
@@ -34,9 +34,12 @@ Published in:
 [arXiv:1602.04551 [quant-ph]](https://arxiv.org/abs/1602.04551), 
 
 
-For more information, check out our [web page](http://www.physics.usyd.edu.au/~mbiercuk/QCL@Sydney.html) or pop us an email!
+For more information, check out the QCL [web page](http://www.physics.usyd.edu.au/~mbiercuk/QCL@Sydney.html).
 
 
+
+
+ 
 
 
 

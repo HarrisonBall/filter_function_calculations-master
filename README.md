@@ -1,5 +1,10 @@
 # filter_function_calculations
 
+This repository is cloned from the repository from the research group in which I did my PhD, the Quantum Control Laboratory. 
+This code was written by me during my PhD. 
+I posted it on QCL public repository prior to working at Q-CTRL. 
+The original README in that upload read as follows.
+
 This is a public repository where we share code and data to supplement our research publications. This repository contains code for performing filter function calculations used in the following publications:
 
 
